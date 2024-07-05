@@ -635,7 +635,7 @@ $lang = array_merge($lang, array(
 	'POST_TOPIC'			=> 'Neues Thema erstellen',
 	'POST_UNAPPROVED_ACTION'	=> 'Auf Freigabe wartender Beitrag:',
 	'POST_UNAPPROVED'		=> 'Dieser Beitrag wurde noch nicht freigegeben.',
-	'POST_UNAPPROVED_EXPLAIN'	=> 'Dieser Beitrag kann von anderen Benutzer nicht gelesen werden, bis er von einem Moderator freigegeben wurde.',
+	'POST_UNAPPROVED_EXPLAIN'	=> 'Dieser Beitrag kann von anderen Benutzern nicht gelesen werden, bis er von einem Moderator freigegeben wurde.',
 	'POWERED_BY'			=> 'Powered by %s',
 
 	'QUOTE'					=> 'Zitat',
